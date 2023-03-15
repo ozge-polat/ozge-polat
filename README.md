@@ -1,5 +1,6 @@
 ### Hi there 👋 This is Özge. 
 - 🌱 I’m currently learning Data Analytics.
+- 🔭 I’m currently working on SQL, Python and Statistic.
 
 <!--
 **ozge-polat/ozge-polat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
